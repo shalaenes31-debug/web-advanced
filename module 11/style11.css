@@ -1,0 +1,17 @@
+    body {
+    background: url("download.JPG");
+    background-size :cover;
+
+    }
+    p{
+        margin-left:100px;
+        margin-bottom:50px;
+    }
+
+
+    div{
+        border:5px solid rgb(255, 60, 0) ;
+        margin: 20px; ;
+        width: 300px ;
+        padding:50px ;
+    }
