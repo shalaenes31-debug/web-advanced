@@ -1,0 +1,57 @@
+h1 {
+    color: green;
+    background-color: bisque;
+    letter-spacing: 8px;
+    word-spacing: 20px;
+    text-align: center;
+}
+
+
+h2 {
+    color:red;
+    text-decoration: overline;
+}
+
+
+h3 {
+    color:blue;
+    text-decoration: line-through;
+}
+
+
+h4 {
+    color :aqua;
+    text-decoration: underline;
+}
+
+
+
+
+.myElement {
+    color:orange !important;
+}
+
+
+p {
+    text-indent: 50px;
+    text-align: center;
+    /*writing-mode: vertical-lr; */
+}
+
+
+#normalText {
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+#italicText {
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+#obliqueText {
+    font-style: oblique;
+    font-weight: 900;
+}
