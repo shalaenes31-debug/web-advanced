@@ -53,6 +53,9 @@
 }
 
 #sticky {
-  top: 0;
-    background-color: rgb(16, 16, 32);
+   position:sticky;
+   top: 0;
+   background-color: rgb(16, 16, 32);
+   padding: 20px; 
+   color: white;
 }
